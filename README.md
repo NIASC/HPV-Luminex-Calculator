@@ -16,6 +16,7 @@ Instructions for starting the program for Windows, Mac and GNU+Linux can be foun
 <p align="center">
   <img src="https://github.com/marmalmstudent/HPV-Luminex-Calculator/blob/master/usage.png" alt="HPV Luminex Calculator">
 </p>
+
 ### Windows
 * Start the program by double-clicking on _luminexprocessor 20100614.php_
 ### Mac & GNU+Linux
