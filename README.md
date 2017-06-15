@@ -14,4 +14,4 @@ This is an updated version of the Luminex Processor.
 * Start the program by double-clicking on _luminexprocessor 20100614.php_
 ### Mac & GNU+Linux
 * Open a terminal emulator in the __HPV-Luminex-Calculator__ directory (navigate by typing `cd /path/to/directory`)
-* Start the program by typing `php luminexprocessor 20100614.php`
+* Start the program by typing `php "luminexprocessor 20100614.php"` (alternatively 'php luminexprocessor\ 20100614.php')
