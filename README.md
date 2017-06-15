@@ -21,4 +21,4 @@ Instructions for starting the program for Windows, Mac and GNU+Linux can be foun
 * Start the program by double-clicking on _luminexprocessor 20100614.php_
 ### Mac & GNU+Linux
 * Open a terminal emulator in the __HPV-Luminex-Calculator__ directory (navigate by typing `cd /path/to/directory`)
-* Start the program by typing `php "luminexprocessor 20100614.php"` (alternatively `php luminexprocessor\ 20100614.php`)
+* Start the program by typing `php "luminexprocessor 20100614.php"`
